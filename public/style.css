@@ -1,0 +1,11 @@
+body{
+background:#0f2027;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+font-family:sans-serif;
+color:white}
+.card{background:rgba(255,255,255,.1);padding:20px;border-radius:12px;width:300px;text-align:center}
+input,button{width:100%;padding:10px;margin-top:10px}
+button{background:#00c6ff;border:none;color:white}
